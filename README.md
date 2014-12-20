@@ -3,3 +3,4 @@
 ### Installation Requirements
 * Install R and RStucdio
 * Install Git and create GitHub account with project
+* Install GitHub for Windows
